@@ -1,6 +1,6 @@
 {
   "name": "serve-index-prefix",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "base on serve-index 1.6.3",
   "author": {
     "name": "andy-jzu",
@@ -9,7 +9,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/zjgnlzq/serve-index-prefix.git"
   },
   "dependencies": {
     "accepts": "~1.2.5",
@@ -46,11 +46,5 @@
       "name": "andy",
       "email": "andythink@126.com"
     }
-  ],
-  "dist": {},
-  "directories": {},
-  "readme": "ERROR: No README data found!",
-  "_id": "serve-index-prefix@1.0.1",
-  "_shasum": "8d747ed29c1cc7d4fe92143134d0e26f1fb1d35a",
-  "_from": "serve-index-prefix@^1.0.0"
+  ]
 }
