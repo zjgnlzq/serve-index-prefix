@@ -5,8 +5,8 @@
 
 ```
 modify the serve-index module for the light-static-server.
-[light-static-server](https://www.npmjs.com/package/light-static-server)
 ```
+[light-static-server](https://www.npmjs.com/package/light-static-server)
 
 
 ## Install
